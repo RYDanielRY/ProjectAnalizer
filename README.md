@@ -1,2 +1,2 @@
 # ProjectAnalizer
-.NET 5 edition
+.NET 5 Edition
